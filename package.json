@@ -1,0 +1,28 @@
+{
+  "name": "event-schedule",
+  "version": "1.0.0",
+  "description": "Event schedule bonus  project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja-sisodia/Event-Schedule.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Pooja Sisodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja-sisodia/Event-Schedule/issues"
+  },
+  "homepage": "https://github.com/Pooja-sisodia/Event-Schedule#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
